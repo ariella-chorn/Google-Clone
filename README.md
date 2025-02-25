@@ -4,7 +4,7 @@
 This repository contains a Google homepage clone that I created as my first hands-on project after spending considerable time on coding challenges and tutorials. The primary objective was to delve into practical coding by building a responsive website, prioritizing mobile-friendliness.
 
 ## Purpose 
-The purpose of this project was not to create a functional Google clone but to gain practical experience and apply the fundamental concepts of HTML and CSS. The focus was on making the website responsive, particularly prioritizing mobile devices.
+The purpose of this project was to gain practical experience and apply the fundamental concepts of HTML and CSS. The focus was on making the website responsive, particularly prioritizing mobile devices.
 
 ## Key Learnings 
 ### 1. HTML Fundamentals 
